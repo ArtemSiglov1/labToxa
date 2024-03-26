@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\Lab5Salt\Lab5Salt\bin\Debug\Lab5Salt.exe.config
+C:\Users\Home\source\repos\Lab5Salt\Lab5Salt\bin\Debug\Lab5Salt.exe
+C:\Users\Home\source\repos\Lab5Salt\Lab5Salt\bin\Debug\Lab5Salt.pdb
+C:\Users\Home\source\repos\Lab5Salt\Lab5Salt\obj\Debug\Lab5Salt.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Lab5Salt\Lab5Salt\obj\Debug\Lab5Salt.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Lab5Salt\Lab5Salt\obj\Debug\Lab5Salt.exe
+C:\Users\Home\source\repos\Lab5Salt\Lab5Salt\obj\Debug\Lab5Salt.pdb
