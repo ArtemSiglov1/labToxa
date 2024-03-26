@@ -19,6 +19,7 @@ namespace Lab5Salt
             f.Pr3(3);
             f.Pr4(4);
             f.Pr5(5);
+            //вывод
             f.Display();
             Console.Read();
         }
